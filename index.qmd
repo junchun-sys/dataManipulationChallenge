@@ -727,6 +727,7 @@ Knowing the percentage of multi category shipments helps management understand o
 - Be appropriate for a business audience
 - Do not `echo` the code that creates the visualizations
 
+Visualization:
 The chart below shows on-time delivery rate by product category, supporting the analysis that service levels vary across categories and that multi-category shipments add operational complexity.
 
 
